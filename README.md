@@ -1,3 +1,6 @@
 # Unsupervised_Deep_Learning
 
-![Network used for the discrimination](Fig_1.jpg)
+![network architecture](Fig_2.jpg)
+
+
+![network architecture](Fig_1.jpg)
