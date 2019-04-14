@@ -18,9 +18,11 @@ The architecture of fully convolutional autoencoder used in our study.
 Clustering results. 
 
 
-![embeded features](My Movie 7.mp4)
-
 
 ![embeded features](Fig_4.jpg)
 
 Visualization of embeded features. 
+
+
+
+![embeded features](FigSub_1.jpg)
