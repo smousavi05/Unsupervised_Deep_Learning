@@ -23,12 +23,6 @@ Clustering results.
 
 Visualization of embeded features. 
 
-
-
-#![embeded features](FigSub_1.pdf)
-
-#![embeded features](FigSub_2.pdf)
-
 ![embeded features](FigSub_3.png)
 ![embeded features](FigSub_4.png)
 
