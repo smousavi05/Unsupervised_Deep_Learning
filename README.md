@@ -8,3 +8,5 @@ c) and d) are examples of local and teleseismic waveforms respectively while e) 
 
 ![network architecture](Fig_1.jpg)
 The architecture of fully convolutional autoencoder used in our study. 
+
+![network architecture](Fig_3.jpg)
