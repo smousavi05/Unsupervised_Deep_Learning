@@ -11,11 +11,9 @@ c) and d) are examples of local and teleseismic waveforms respectively while e) 
 The architecture of fully convolutional autoencoder used in our study. 
 
 
-
 ![clustering results](Fig_3.jpg)
 
 Clustering results. 
-
 
 
 ![embeded features](Fig_4.jpg)
