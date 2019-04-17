@@ -1,6 +1,5 @@
 # Unsupervised_Deep_Learning
 
-
 ![network architecture](Fig_2.jpg)
 
 Sampel data. a) and b) are two examples of the seismograms with different polarity of first motion.
