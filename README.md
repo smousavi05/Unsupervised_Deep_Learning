@@ -1,4 +1,4 @@
-# Unsupervised_Deep_Learning
+# sample codes for paper: "Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders"
 
 ![network architecture](Fig_2.jpg)
 
