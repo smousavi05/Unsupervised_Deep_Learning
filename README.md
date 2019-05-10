@@ -1,4 +1,4 @@
-#     sample codes for paper: "Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders"
+#          sample codes for paper: "Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders"
 --------------------- ---------------------------------
                              
 In this paper, we use deep neural networks for unsupervised
