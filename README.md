@@ -1,6 +1,9 @@
 #   sample codes for paper: "Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders"
 --------------------- ---------------------------------
                              
+                             
+                             https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704258
+                             
 In this paper, we use deep neural networks for unsupervised
 clustering of seismic data.We perform the clustering in a
 feature space that is simultaneously optimized with the clustering
