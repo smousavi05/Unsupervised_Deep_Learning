@@ -1,4 +1,4 @@
-#   sample codes for paper: "Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders"
+#       sample codes for paper: "Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders"
 --------------------- ---------------------------------
 
 Mousavi, S. M., W. Zhu, W. Ellsworth, G. Beroza (2019). Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders, IEEE Geoscience and Remote Sensing Letters, 1 - 5, doi:10.1109/LGRS.2019.2909218.                            
