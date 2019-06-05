@@ -1,6 +1,6 @@
 Demo codes for paper: 
 # "Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders"
-          
+               
 --------------------------------------------------------
 
     Mousavi, S. M., W. Zhu, W. Ellsworth, G. Beroza (2019). 
