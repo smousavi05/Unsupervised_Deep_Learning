@@ -11,6 +11,13 @@ Demo codes for paper:
               
 ------------------------------------------------------
 
+@article{mousavi2019unsupervised,
+  title={Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders},
+  author={Mousavi, S Mostafa and Zhu, Weiqiang and Ellsworth, William and Beroza, Gregory},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2019},
+  publisher={IEEE}
+}
 ------------------------------------------------------
             
 In this paper, we use deep neural networks for unsupervised
