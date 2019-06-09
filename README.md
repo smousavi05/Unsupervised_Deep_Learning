@@ -7,7 +7,7 @@ Demo codes for paper:
     Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders, 
     IEEE Geoscience and Remote Sensing Letters, 1 - 5, doi:10.1109/LGRS.2019.2909218.                            
                              
-(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704258)
+(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704258)      
                                
 ------------------------------------------------------
 BibTeX:
