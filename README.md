@@ -45,8 +45,8 @@ supervised methods.
 
 ![network architecture](Fig_2.jpg)
 
-      Sampel data. a) and b) are two examples of the seismograms with different polarity of first motion.
-       c) and d) are examples of local and teleseismic waveforms respectively while e) and f) are the associated Short-Time Fourier   transforms. 
+   Sampel data. a) and b) are two examples of the seismograms with different polarity of first motion.
+       c) and d) are examples of local and teleseismic waveforms respectively while e) and f) are the associated Short-Time Fourier transforms. 
 
 ![network architecture](Fig_1.jpg)
 
