@@ -1,4 +1,5 @@
-Demo codes for paper:              
+Demo codes for paper:  
+
 # "Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders"
                                 
 --------------------------------------------------------      
