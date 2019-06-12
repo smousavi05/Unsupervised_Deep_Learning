@@ -40,7 +40,7 @@ applications we present here can be used in standard singlesite
 earthquake early warning systems to reduce the false alerts
 on an individual station level. However, the presented technique
 is general and suitable for a variety of applications including
-quality control of the labeling and classification results of other
+quality control of the labeling and classification results of other     
 supervised methods.
 
 ![network architecture](Fig_2.jpg)
