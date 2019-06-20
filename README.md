@@ -12,7 +12,7 @@ Demo codes for paper:
                                                               
 ------------------------------------------------------       
 BibTeX:      
-
+            
     @article{mousavi2019unsupervised,
      title={Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders},
      author={Mousavi, S Mostafa and Zhu, Weiqiang and Ellsworth, William and Beroza, Gregory},
