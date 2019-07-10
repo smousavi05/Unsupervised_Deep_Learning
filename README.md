@@ -22,7 +22,10 @@ BibTeX:
     }        
                          
 ------------------------------------------------------        
-            
+You can get the training dataset from here:
+https://drive.google.com/open?id=1ELAGbEmfBcE2MI1TYVX2IT1tzsJDa9io
+
+
 In this paper, we use deep neural networks for unsupervised
 clustering of seismic data.We perform the clustering in a
 feature space that is simultaneously optimized with the clustering
