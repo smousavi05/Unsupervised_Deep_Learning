@@ -1,6 +1,6 @@
 Demo codes for paper:                                    
                                     
-# Unsupervised (Self-Supervised) Clustering of Seismic Signals Using Deep Convolutional Autoencoders                                       
+# Unsupervised (Self-Supervised) Clustering of Seismic Signals Using Deep Convolutional Autoencoders                                            
                                                                                                             
 --------------------------------------------------------                        
 
