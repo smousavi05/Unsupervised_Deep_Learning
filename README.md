@@ -1,15 +1,14 @@
 Demo codes for paper:                                    
                                     
 # Unsupervised (Self-Supervised) Clustering of Seismic Signals Using Deep Convolutional Autoencoders                                                 
-                                                                                                            
+You can get the paper from here:
+https://www.researchgate.net/publication/332814555_Unsupervised_Clustering_of_Seismic_Signals_Using_Deep_Convolutional_Autoencoders
+
 --------------------------------------------------------                        
 
     Mousavi, S. M., W. Zhu, W. Ellsworth, G. Beroza (2019).                        
     Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders, 
-    IEEE Geoscience and Remote Sensing Letters, 1 - 5, doi:10.1109/LGRS.2019.2909218.                            
-                             
-(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704258)                                     
-                                                              
+    IEEE Geoscience and Remote Sensing Letters, 1 - 5, doi:10.1109/LGRS.2019.2909218.                                                                                                       
 ------------------------------------------------------             
 BibTeX:              
                     
