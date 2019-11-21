@@ -1,4 +1,4 @@
-## Demo codes for paper:                                    
+## Demo codes (see the jupyter notebook) for:                                    
                                     
 # Unsupervised (Self-Supervised) Clustering of Seismic Signals Using Deep Convolutional Autoencoders                             
 -------------------------------------------------------
@@ -6,6 +6,11 @@
 ### You can get the paper from here:
 
 https://www.researchgate.net/publication/332814555_Unsupervised_Clustering_of_Seismic_Signals_Using_Deep_Convolutional_Autoencoders
+
+------------------------------------------------------        
+### You can get the training dataset from here:
+
+https://drive.google.com/file/d/16itT_IZpM8w8KyFN8eL8iEfYX66Hk6Xb/view?usp=sharing
 
 --------------------------------------------------------                        
 
@@ -23,11 +28,6 @@ BibTeX:
      publisher={IEEE}
     }        
                          
-------------------------------------------------------        
-### You can get the training dataset from here:
-
-https://drive.google.com/file/d/16itT_IZpM8w8KyFN8eL8iEfYX66Hk6Xb/view?usp=sharing
-
 ------------------------------------------------------
 ## Abstract:
 
