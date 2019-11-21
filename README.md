@@ -28,6 +28,8 @@ BibTeX:
 
 https://drive.google.com/file/d/16itT_IZpM8w8KyFN8eL8iEfYX66Hk6Xb/view?usp=sharing
 
+------------------------------------------------------
+## Abstract:
 
 In this paper, we use deep neural networks for unsupervised
 clustering of seismic data.We perform the clustering in a
@@ -48,6 +50,8 @@ on an individual station level. However, the presented technique
 is general and suitable for a variety of applications including
 quality control of the labeling and classification results of other     
 supervised methods.
+
+----------------------------------------------
 
 ![network architecture](Fig_2.jpg)
 
