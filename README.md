@@ -13,6 +13,7 @@ https://www.researchgate.net/publication/332814555_Unsupervised_Clustering_of_Se
 https://drive.google.com/file/d/16itT_IZpM8w8KyFN8eL8iEfYX66Hk6Xb/view?usp=sharing
 
 --------------------------------------------------------                        
+Reference:              
 
     Mousavi, S. M., W. Zhu, W. Ellsworth, G. Beroza (2019).                        
     Unsupervised Clustering of Seismic Signals Using Deep Convolutional Autoencoders, 
