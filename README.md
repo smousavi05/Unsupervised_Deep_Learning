@@ -4,10 +4,13 @@
 -------------------------------------------------------
 
 ### You can get the paper from here:
+
 Link 1:
+
 https://ieeexplore.ieee.org/document/8704258
 
 Link 2:
+
 https://www.researchgate.net/publication/332814555_Unsupervised_Clustering_of_Seismic_Signals_Using_Deep_Convolutional_Autoencoders
 
 ------------------------------------------------------        
