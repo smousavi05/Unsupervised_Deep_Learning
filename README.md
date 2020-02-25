@@ -1,6 +1,6 @@
 ### Demo codes (see the jupyter notebook) for:                                        
                                     
-# Unsupervised (Self-Supervised) Clustering of Seismic Signals Using Deep Convolutional Autoencoders                             
+# Unsupervised (Self-Supervised) Clustering of Seismic Signals Using Deep Convolutional Autoencoders                               
 -------------------------------------------------------
 
 ### You can get the paper from here:
