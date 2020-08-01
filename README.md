@@ -1,6 +1,6 @@
 ### Demo codes (see the jupyter notebook) for:                                                     
 
-![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/Unsupervised_Deep_Learning?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/Unsupervised_Deep_Learning?style=plastic) 
 ![GitHub stars](https://img.shields.io/github/stars/smousavi05/Unsupervised_Deep_Learning?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Unsupervised_Deep_Learning?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/smousavi05/Unsupervised_Deep_Learning?style=social)
