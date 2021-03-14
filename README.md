@@ -7,7 +7,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/smousavi05/Unsupervised_Deep_Learning?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
 
-# Unsupervised (Self-Supervised) Clustering of Seismic Signals Using Deep Convolutional Autoencoders                                      
+# Unsupervised (Self-Supervised) Discrimination of Seismic Signals Using Deep Convolutional Autoencoders                                      
 -------------------------------------------------------
 
 ### You can get the paper from here:
